@@ -41,5 +41,8 @@ Not sure what distinguishes these but there seems to be some differences that ne
 # Eye bolts
 Should be similiar metals so that the is no galvanic corrosion between them, and to ensure they fit together well with the sensor.
 
+# Microcontroller Programming 
+For the microcontroller I was thinking that I would install Node.js and then have a web server running on it that can serve a webpage. There should be an application that can collect the output from the load cell and then display it in a way that is beneficial to the user. 
+
 ## Resources
 Markus Rampp - SlackCellv2 - https://gitlab.com/Grommi/slackcellv2
