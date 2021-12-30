@@ -18,6 +18,7 @@ There are several components that will be used for this project.
 
 - Microcontroller
 - Load cell sensor
+    - https://www.sparkfun.com/products/13879
 - Load cell amplifier
 - Eye bolts
 
@@ -43,6 +44,30 @@ Should be similiar metals so that the is no galvanic corrosion between them, and
 
 # Microcontroller Programming 
 For the microcontroller I was thinking that I would install Node.js and then have a web server running on it that can serve a webpage. There should be an application that can collect the output from the load cell and then display it in a way that is beneficial to the user. 
+
+- See the data.
+- Record the data.
+
+The frontend can possibly just be built in vanilla JS, but maybe this would be a fun opportunity to play with a framework? The backend would need to be some sort of database. Could be a NoSQL solution, or maybe something on the microcontroller and have the data stay there? That seems like a bad idea because it becomes a limiting factor as storage space goes down and it also isn't accessible without being near the physical device. Probably should think about how to decouple the application from the microcontroller so that it is only minimally coupled to perform the measurements. 
+
+# Frontend
+HTML
+CSS
+Javascript
+
+OR 
+
+Some framework for fun, and which might tie together frontend/backend as well. 
+
+
+# Backend
+Might need a couple of endpoints to do things?
+/save
+
+
+# Storage
+Need to house the data somewhere. Keeping it on the microcontroller is where we'll start. Eventually, will need to sync the changes to an external storage somewhere. It should make it easier to start so that the application doesn't have to fetch data or save data to something off-device. I guess a recording session is cached locally, and then there could be a save function that for now writes it to the device and then later on that could be refactored to a different target. 
+
 
 ## Resources
 Markus Rampp - SlackCellv2 - https://gitlab.com/Grommi/slackcellv2
