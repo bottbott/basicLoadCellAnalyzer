@@ -1,0 +1,93 @@
+<mxfile host="65bd71144e">
+    <diagram id="OGidv8nLLRs2CMnZiVaS" name="Dashboard">
+        <mxGraphModel dx="886" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="130" width="800" height="550" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="130" width="120" height="550" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Sidebar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="100" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Sidebar Header" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="150" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Sidebar link" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="190" width="100" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Sidebar link" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="216" width="90" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="130" width="680" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Main Header" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="100" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="User pic" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="740" y="120" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="User Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="150" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="200" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Last three recordings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="242" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Dashboard" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="236" width="90" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Take recording" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="260" width="90" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="RjzdTuxdtQgz_mhCRLaB-18" value="Main Body" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="193" width="90" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="E1LQGOc_cuP5CvWyAdLs" name="TakeRecording">
+        <mxGraphModel dx="886" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="o1viwcK__7oWRNlSRfFT-0"/>
+                <mxCell id="o1viwcK__7oWRNlSRfFT-1" parent="o1viwcK__7oWRNlSRfFT-0"/>
+                <mxCell id="rvoEC57vzxGvkv87o0PH-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="85" y="190" width="680" height="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="LRsULLv3p3oFcQRHCgzH-0" value="Main Body" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="380" y="160" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="LRsULLv3p3oFcQRHCgzH-1" value="Take Recording screen" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="85" y="90" width="165" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="LRsULLv3p3oFcQRHCgzH-3" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.general.graph" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="260" y="250" width="330" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="LRsULLv3p3oFcQRHCgzH-4" value="Start Recording Button" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="450" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="LRsULLv3p3oFcQRHCgzH-5" value="Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="405" y="600" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="LRsULLv3p3oFcQRHCgzH-6" value="Force" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="200" y="405" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="LRsULLv3p3oFcQRHCgzH-7" value="Save Recording" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="270" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="LRsULLv3p3oFcQRHCgzH-8" value="Cancel Recording" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1viwcK__7oWRNlSRfFT-1" vertex="1">
+                    <mxGeometry x="450" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
